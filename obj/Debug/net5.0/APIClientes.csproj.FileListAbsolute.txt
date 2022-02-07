@@ -133,7 +133,6 @@ C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\APIClientes.csproj.CoreCo
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\APIClientes.MvcApplicationPartsAssemblyInfo.cs
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\APIClientes.MvcApplicationPartsAssemblyInfo.cache
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\staticwebassets\APIClientes.StaticWebAssets.Manifest.cache
-C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\staticwebassets\APIClientes.StaticWebAssets.xml
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\scopedcss\bundle\APIClientes.styles.css
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\APIClientes.RazorTargetAssemblyInfo.cache
 C:\JC\WORKSPACE\.Net\Otros\ApiCliente\obj\Debug\net5.0\APIClientes.csproj.CopyComplete
